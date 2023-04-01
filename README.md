@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://i.pinimg.com/originals/e9/e9/bc/e9e9bc4f350b984809f19ba230277800.gif" align="center" style="width: 100%" />
+<img src="https://i.pinimg.com/originals/e0/45/57/e045576865c776fa43dbc4cbe8c5c7da.gif" align="center" style="width: 100%" />
 </div>  
   
 
@@ -136,28 +136,8 @@ Symbiote(Currently Analyzing)
 
 <br/>  
 
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=7slvziqtcav99wu31tyojkql5&cover_image=true&theme=default" /></div>  
+
 
 <br/>  
 
-<img src="https://i.pinimg.com/736x/a0/df/a9/a0dfa91f172b5239a7163d32d132fa84.jpg" align="left" height="500" width="" />  
-  
 
-<div align="center">
-            <a href="https://ko-fi.com/somedieyoung" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Ko--fi-F16061.svg?style=flat-square&logo=ko-fi" 
-                    align="center"
-                />
-            </a></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
